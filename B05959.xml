@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter from Count Starembergh, to the Duke of Lorraine, concerning the present condition of Vienna.</title>
+            <author>Starhemberg, Ernst Rüdiger, Graf von, 1638-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05959</idno>
+            <idno type="STC">Wing S5269A</idno>
+            <idno type="STC">ESTC R184590</idno>
+            <idno type="EEBO-CITATION">52614963</idno>
+            <idno type="OCLC">ocm 52614963</idno>
+            <idno type="VID">176200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176200)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter from Count Starembergh, to the Duke of Lorraine, concerning the present condition of Vienna.</title>
+                  <author>Starhemberg, Ernst Rüdiger, Graf von, 1638-1701.</author>
+                  <author>Charles V, Duke of Lorraine, 1643-1690, recipient.</author>
+                  <author>Starhemberg, Guido, 1657-1737.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>Re-printed in the year, 1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing (2nd ed.) attributes to Starembergh, Guido-Balde, graf.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vienna (Austria) --  History --  Siege, 1683 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:176200:1" rendition="simple:additions"/>
+            <head>A TRUE COPY OF A LETTER FROM COUNT <hi>STAREMBERGH,</hi> TO THE DUKE of <hi>LORRAINE,</hi> Concerning the preſent Condition of VIENNA.</head>
+            <argument>
+               <p>
+                  <hi>TO give you a True State of the Siege of</hi> Vienna, <hi>from the Eighth of</hi> July, <hi>that the</hi> Ottoman <hi>Army came before it, to the Eighteenth of</hi> Auguſt <hi>in<g ref="char:EOLhyphen"/>cluſive, take this following Letter from Count</hi> Starembergh <hi>himſelf, to the Duke of</hi> Lorraine, <hi>as it is really Tranſlated from the Original Letter, Printed in</hi> High Dutch.</p>
+            </argument>
+            <opener>
+               <dateline>
+                  <hi>Vienna,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 18. 1683.</date>
+               </dateline>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>GOD be thanked, we have had once the good Fortune to hear that one of our Letters is come to your Highneſſes Hands, amongſt many others that have been writ to you from hence. I humbly b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you will believe, That it is none of our Fault that you have been no oftner informed of our Affairs: ſo neither will we be want<g ref="char:EOLhyphen"/>ing for the future to let your Highneſs know how it goes with us here, as often as Opportunity ſhall ſerve. And to let you ſee how it is with us at preſent, give me leave to tell you, That we have diſputed every Foot of Ground with the Enemy, and that they have not gained any thing upon us, but what hath coſt them very dear; having been as often vigorouſly re<g ref="char:EOLhyphen"/>puiſed, as they have attempted to Lodge themſelves, with ſo great Loſs, that they dare not thruſt their Heads out of their Holes any longer, nor appear upon thoſe Hills which they have ſlung up round our Counterſcarp, and by which means they endeavour to ſurround our Ditch. And as I have formerly informed your Highneſs, That the Enemies had made a Deſcent into the Ditch of the Raveline, and blown up a part of the Wall, and there<g ref="char:EOLhyphen"/>upon made ſeveral Aſſaults; but God be thanked, very unſucceſsfully, we having beaten them out of their Works which they had made at the Foot of the Preach: But finding, that as ſoon as our Men were retreated, they re<g ref="char:EOLhyphen"/>turned again, I thought it Prudence to uſe ſome Precaution about it, and to
+<pb facs="tcp:176200:2"/>have Mined it ſo deep as to reach the Point of the Raveline; which I alſo did about the two Baſtions they had attaqued, toward which the Enemy have not yet advanced any thing, keeping themſelves ſtill at the Foot of the Counterſcarp. They made a deſcent on the 14th inſtant into the Ditch called <hi>Leb,</hi> lying before the <hi>Bastion,</hi> and the ſame night made another Lodg<g ref="char:EOLhyphen"/>ment in the Ditch, but ſeeing that I could not very much incommode them neither by my Muſqueders not Cannon, they having buried themſelves over Head are Ears; I thought good to plant my Cannon againſt thoſe Moun<g ref="char:EOLhyphen"/>tains that ſorrounded the Ditch, and at the ſame time made an Attaque upon them, and drove them from thence; but not having men enough the firſt time to ruine their works, I made a ſecond Attaque, and deſtroyed them all, and having the wind favourable for us, we burnt their Gabions and a great part of their Gallery, ſince which time they never durſt appear on that ſide the <hi>Raveline.</hi> On the 17th they endeavoured to ſpring ano<g ref="char:EOLhyphen"/>ther Mine, but with no better ſucceſs then the former, for it blew up back<g ref="char:EOLhyphen"/>wards, and did little or no hurt to the <hi>Raveline,</hi> there is now already made in the middle of the <hi>Raveline</hi> a very good Retrenchment with a deep Ditch. The <hi>Baſtions Leb</hi> and <hi>Delacour</hi> are alſo doubly retr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nched, and I am now b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſie at this very hour to make a Principal Retrenchment behind the two ſaid <hi>Bastions;</hi> ſo that your Highneſs ſees there is nothing wan ing in us to uſe all the precaution that can be expected from rational Men, for the pre<g ref="char:EOLhyphen"/>ſervation of the place, and I can aſſure you, to render me worthy of the Con<g ref="char:EOLhyphen"/>fidence your Highneſs, and eſpecially his Imperial Majeſty my Maſter, ground on my Services, I will never deliver up the Place, but with the laſt drop of my blo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. Withall I find that our men are no ways dounted at the ſight of the Turks, who are eaſily overcome, if attaqued with Courage, and God be thanked one of ours is able to beat ten of theirs. This day was brought to me a Janizary Priſoner, who was taken in the <hi>Raveline,</hi> who among other things tells me, That they loſt in the laſt attaque 11000 men, beſides many Officers of the Janizaries, and the Baſhaws of <hi>Meſopotamia,</hi> and <hi>Albania;</hi> That they begin to be in want of Proviſions both of Horſe and Man, which they are forced to fetch from far; That they expect a Convoy from <hi>Baſtedo</hi> with Ammunition, which if it could be met withall by the way, or that their Po ragers could be cut off, it would make them deſperate. God be thanked, as to my health, 'tis in a very good Condition again, having had the Bloody Flux for eight days together.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>The 19th of <hi>Auguſt,</hi> 1683. Since yeſterday (my Lord) the Enemy have cauſed another Mine to be ſprung in the <hi>Raveline,</hi> and made an Aſſault with about 1000 men, but our Cannon and our Muſquetiers did ſo warmly receive them, that 300 of them were killed upon the place, and forced them to con<g ref="char:EOLhyphen"/>tent themſelves to lodge upon a place called <hi>Berm,</hi> which I perceiving, cauſed a Mine to be ſprung this morning, which ſoon diſlodged them, burying moſt of them in the Ruines. I expect this very inſtant the like Regale from them, but if I can be ready ſooner than they, I will cauſe another to be ſprung to the health of your Highneſs.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
